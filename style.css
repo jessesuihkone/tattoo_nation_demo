@@ -67,6 +67,12 @@
     background-image: url('hero.)
     )}
 
+
+    .artist img {
+        width: 200px;
+        height: 200px;
+    }
+
     /* Contact Page Styles */
 .contact {
     max-width: 600px;
